@@ -1,0 +1,151 @@
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.pdb
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Giris.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Properties.Resources.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.exe
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.pdb
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Ana.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriler.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriekle.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunekle.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunler.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gider.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gelir.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Kasa.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Fatura.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Birimekle.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Caristok.resources
+C:\Users\pc\source\repos\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunstok.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe.config
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.pdb
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.dll
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.dll
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.xml
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.xml
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csprojAssemblyReference.cache
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Ana.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Birimekle.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Caristok.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Fatura.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gider.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gelir.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Giris.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Kasa.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriekle.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriler.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Properties.Resources.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunekle.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunler.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunstok.resources
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.GenerateResource.cache
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.CoreCompileInputs.cache
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.CopyComplete
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.exe
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.pdb
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe.config
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.pdb
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.dll
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.xml
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Ana.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Birimekle.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Caristok.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Fatura.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gider.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gelir.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Giris.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Kasa.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriekle.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriler.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Properties.Resources.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunekle.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunler.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunstok.resources
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.exe
+C:\Users\pc\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.pdb
+C:\Users\kortel\Desktop\Yeni klasör\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Satisyap.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe.config
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.pdb
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.dll
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.dll
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.xml
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.xml
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csprojAssemblyReference.cache
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Ana.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Birimekle.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Caristok.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Fatura.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gider.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gelir.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Giris.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Kasa.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriekle.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriler.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Properties.Resources.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Satisyap.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunekle.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunler.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunstok.resources
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.GenerateResource.cache
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.CoreCompileInputs.cache
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.CopyComplete
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.exe
+C:\Users\kortel\Desktop\staj\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.pdb
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe.config
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.exe
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.pdb
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.exe
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\Limitsiz Defter.pdb
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.dll
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.xml
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Ana.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Birimekle.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Caristok.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Fatura.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gider.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Gelir.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Giris.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Kasa.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriekle.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Musteriler.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Properties.Resources.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Satisyap.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunekle.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunler.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.Urunstok.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.msgbx.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz_Defter.odbirim.resources
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Limitsiz Defter\Limitsiz Defter\obj\Debug\Limitsiz Defter.csproj.CopyComplete

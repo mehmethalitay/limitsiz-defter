@@ -1,0 +1,400 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A264D0CC-1412-4A03-A944-030FE8CE7062}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Limitsiz_Defter</RootNamespace>
+    <AssemblyName>Limitsiz Defter</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net40\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.112.0\lib\net40\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.112.0\lib\net40\System.Data.SQLite.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.112.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.112.0\lib\net40\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="aktar.cs" />
+    <Compile Include="Ana.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ana.Designer.cs">
+      <DependentUpon>Ana.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Birimekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Birimekle.Designer.cs">
+      <DependentUpon>Birimekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caristok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caristok.Designer.cs">
+      <DependentUpon>Caristok.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fatura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fatura.Designer.cs">
+      <DependentUpon>Fatura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gider.Designer.cs">
+      <DependentUpon>Gider.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gelir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gelir.Designer.cs">
+      <DependentUpon>Gelir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kasa.Designer.cs">
+      <DependentUpon>Kasa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="msgbx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="msgbx.Designer.cs">
+      <DependentUpon>msgbx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteriekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteriekle.Designer.cs">
+      <DependentUpon>Musteriekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musteriler.Designer.cs">
+      <DependentUpon>Musteriler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="odbirim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="odbirim.Designer.cs">
+      <DependentUpon>odbirim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Satisyap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Satisyap.Designer.cs">
+      <DependentUpon>Satisyap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Urunekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Urunekle.Designer.cs">
+      <DependentUpon>Urunekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Urunler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Urunler.Designer.cs">
+      <DependentUpon>Urunler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Urunstok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Urunstok.Designer.cs">
+      <DependentUpon>Urunstok.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ana.resx">
+      <DependentUpon>Ana.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Birimekle.resx">
+      <DependentUpon>Birimekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caristok.resx">
+      <DependentUpon>Caristok.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fatura.resx">
+      <DependentUpon>Fatura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gider.resx">
+      <DependentUpon>Gider.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gelir.resx">
+      <DependentUpon>Gelir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kasa.resx">
+      <DependentUpon>Kasa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="msgbx.resx">
+      <DependentUpon>msgbx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteriekle.resx">
+      <DependentUpon>Musteriekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musteriler.resx">
+      <DependentUpon>Musteriler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="odbirim.resx">
+      <DependentUpon>odbirim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Satisyap.resx">
+      <DependentUpon>Satisyap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Urunekle.resx">
+      <DependentUpon>Urunekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Urunler.resx">
+      <DependentUpon>Urunler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Urunstok.resx">
+      <DependentUpon>Urunstok.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addbox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\box.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fatura.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kasa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limiitsizdefter-giris-bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\global-settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iconsmind-Outline-Eraser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\info.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mler.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gelir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gider.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %283%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duzenle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iptal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaydet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rapor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\satis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tahsilat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %284%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %283%291.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %283%293.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %283%294.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %283%296.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\limiitsizdefter-giris-bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %283%297.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yazdir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1 %283%299.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\duzenle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iptal1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kaydet1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rapor1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\satis1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sil1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tahsilat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yazdir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\urun.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\urun1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.3.0\build\EntityFramework.targets'))" />
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.112.0\build\net40\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.112.0\build\net40\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.3.0\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.3.0\build\EntityFramework.targets')" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.112.0\build\net40\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.112.0\build\net40\System.Data.SQLite.Core.targets')" />
+</Project>
